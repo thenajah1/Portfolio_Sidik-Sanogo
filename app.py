@@ -8,7 +8,7 @@ from streamlit_lottie import st_lottie
 
 #----- PATH SETINGS ----------------#
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-css_file = current_dir / "styles" / "main.css"
+css_file = current_dir / "Styles" / "main.css"
 resume_file = current_dir / "actif" / "CV_Data_Sidik_SANOGO.pdf"
 profile_pic = current_dir / "actif" / "phot.png"
 
@@ -38,17 +38,11 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON, layout="wide")
 
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
-try:
-    with open(css_file) as f:
-        st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
-except Exception as e:
-    st.error(f"Une erreur est survenue lors de la lecture du fichier CSS : {e}")
-
-try:
-    with open(resume_file, "rb") as pdf_file:
-        PDFbyte = pdf_file.read()
-except Exception as e:
-    st.error(f"Une erreur est survenue lors de la lecture du fichier PDF : {e}")
+with open(css_file) as f:
+    st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
+with open(resume_file, "rb") as pdf_file:
+    PDFbyte = pdf_file.read()
+profile_pic = Image.open(profile_pic)
 
 # ------------- Animations ----------
 def load_lottiefile(filepath: str):

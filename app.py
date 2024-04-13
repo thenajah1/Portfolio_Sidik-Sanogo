@@ -13,7 +13,7 @@ resume_file = current_dir / "actif" / "CV_Data_Sidik_SANOGO.pdf"
 profile_pic = current_dir / "actif" / "phot.png"
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "MY-PORTFOLIO"
+PAGE_TITLE = "Portfolio Sidik"
 PAGE_ICON = ":computer:"
 DESCRIPTION = """
 

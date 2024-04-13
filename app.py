@@ -38,11 +38,17 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON, layout="wide")
 
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
-with open(css_file) as f:
-    st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
-with open(resume_file, "rb") as pdf_file:
-    PDFbyte = pdf_file.read()
-profile_pic = Image.open(profile_pic)
+try:
+    with open(css_file) as f:
+        st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
+except Exception as e:
+    st.error(f"Une erreur est survenue lors de la lecture du fichier CSS : {e}")
+
+try:
+    with open(resume_file, "rb") as pdf_file:
+        PDFbyte = pdf_file.read()
+except Exception as e:
+    st.error(f"Une erreur est survenue lors de la lecture du fichier PDF : {e}")
 
 # ------------- Animations ----------
 def load_lottiefile(filepath: str):

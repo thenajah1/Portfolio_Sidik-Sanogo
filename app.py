@@ -29,7 +29,7 @@ EMAIL = "sidiksanogo766@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/aboubacar-sidik-sanogo1/",
     "GitHub": "https://github.com/thenajah1",
-    "FaceBook": "https://www.facebook.com/sance.sanogo",
+    "FaceBook": "https://www.facebook.com/sance.sanogo/",
     "Instagram": "https://www.instagram.com/st___najah/",
 }
 

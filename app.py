@@ -9,7 +9,7 @@ from streamlit_lottie import st_lottie
 #----- PATH SETINGS ----------------#
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "Styles" / "main.css"
-resume_file = current_dir / "actif" / "CV-Datascience_Sidik_SANOGO.pdf"
+#resume_file = current_dir / "actif" / "CV-Datascience_Sidik_SANOGO.pdf"#
 profile_pic = current_dir / "actif" / "phot.png"
 
 # --- GENERAL SETTINGS ---
@@ -25,7 +25,7 @@ Expertise: Data Analysis | Big Data | Python | Scikit-learn | Keras | TensorFlow
 
 International Experience: Fluent in spoken and written English and French.
 """
-EMAIL = "sidiksanogo766@gmail.com"
+#EMAIL = "sidiksanogo766@gmail.com"#
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/aboubacar-sidik-sanogo1/",
     "GitHub": "https://github.com/thenajah1",

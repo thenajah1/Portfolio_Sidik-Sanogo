@@ -83,7 +83,7 @@ with col2:
        # label=" 📄 Télécharger mon cv",
         #data=PDFbyte,
         #file_name=resume_file.name,
-        mime="application/octet-stream",
+        #mime="application/octet-stream",
     )
    # st.write("📫 :red[**EMAIL** :] ", EMAIL)
 

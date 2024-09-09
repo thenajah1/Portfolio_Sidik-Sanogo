@@ -17,13 +17,13 @@ PAGE_TITLE = "Portfolio Sidik"
 PAGE_ICON = ":computer:"
 DESCRIPTION = """
 
-Ma passion pour la donnée m'a guidé d'un rôle de développeur full stack à un expert en data science et IA, forgeant un profil hybride qui enrichit ma vision technologique. 
+My passion for data has led me from a full-stack developer role to becoming a professional in data science and AI, crafting a hybrid profile that enriches my technological vision. With 3 years of experience, including 2 years in data and 1 year in development, this journey reflects my analytical mindset 🔍 and my eagerness to learn, driving me into AI development.
 
-Cette évolution illustre mon esprit analytique et ma soif d'apprendre, me propulsant dans le développement IA. 
+Armed with a solid academic background 🎓 and proven experience in IT project management 📈 and data analysis, I excel at transforming data into strategic insights. My interest in entrepreneurship, particularly in real estate 🏠, adds another layer to my expertise, blending technological innovation with sharp business acumen to reshape real estate strategies through a data-driven approach.
 
-Armé d'une solide formation et d'une expérience éprouvée en gestion de projets IT et analyse de données, je me distingue par ma capacité à convertir les données en insights stratégiques 🎯. 
+Expertise: Data Analysis | Big Data | Python | Scikit-learn | Keras | TensorFlow | Streamlit | Microsoft Azure | Microsoft Power BI | APIs and Event-Driven Architectures | Internal and External Communication | Project Management | Stakeholder Relation Management | Solution and Conflict Management
 
-Mon intérêt pour l'entrepreneuriat, en particulier dans l'immobilier, ajoute une dimension supplémentaire à mon expertise, combinant innovation technologique et sens aigu des affaires pour remodeler les stratégies immobilières avec une approche fondée sur les données.
+International Experience: Fluent in spoken and written English and French.
 """
 EMAIL = "sidiksanogo766@gmail.com"
 SOCIAL_MEDIA = {
@@ -104,24 +104,22 @@ with col21:
 DATA SCIENTIST |
 Depuis mars 2024 | IDAOS, Paris
 
-🐍 Analyse de données qualitatives et quantitatives avec Python via Jupyter, intégrant des techniques de machine learning.
+🐍 Mission 1: Data analysis and AI application development using embeddings with a Streamlit interface to optimize moderation.
+Method and Result: Leveraged Python and OpenAI API for quick access to user response data, achieving a time savings of over 85%.
 
-💡 Développement d'une application en Python signalant des appels d'offres potentiels chaque semaine basée sur des mots-clés spécifiques.
+💡Mission 2: Implementation of scripts to detect negative e-reputation and automation of AO (Appel d'Offres) searches.
+Method and Result: Utilized web scraping and NLP techniques to filter articles and automate searches, reducing the time required for detecting negative articles and AO searches by 50%.
 
-📰 Création d'une application filtrant des articles ou sources d'information pour identifier des entreprises avec une mauvaise e-réputation, utilisant le traitement du langage naturel (NLP) pour l'analyse de sentiment.
-
-🖥 Finalisation des applications avec Streamlit pour une interface utilisateur interactive.
+📰 Mission 3: Conducted training sessions on GenAI.
+Method and Result: Developed interactive training modules on using GenAI, enabling teams to quickly master generative AI tools, thereby increasing efficiency and innovation in projects.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 DIGITAL DATA ANALYST |
 D'août 2023 à février 2024 | IDAOS, Paris
 
-🔍 Analyse exploratoire des données web dans les secteurs immobilier et financier.
-
-🛡 Veille stratégique et concurrentielle en utilisant des outils d'intelligence artificielle.
-
-🧠 Conception de requêtes pour l'intelligence artificielle générative.
+🔍 Mission: Exploratory data analysis of real estate web data, strategic monitoring, and use of visualization tools.
+Method and Result: Conducted analysis using linear regression and time series, revealing key trends to refine decisions on tenant complaints.
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
@@ -129,9 +127,8 @@ ________________________________________________________________________________
 ASSISTANT DÉVELOPPEUR Back-End |
 De juillet 2020 à janvier 2021 | ICMGC, Abidjan
 
-📚 Développement d'une bibliothèque numérique en utilisant PHP, JavaScript (JS), et SQL.
-
-📈 Analyse système avec UML et utilisation d'un système de gestion de base de données relationnelles (SGBDR) approprié.
+📚 Mission: Analysis of healthcare agents' performance and creation of activity monitoring reports.
+Method and Result: Analyzed key performance indicators and created interactive dashboards with Power BI, enabling effective monitoring of agent productivity.
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
@@ -139,7 +136,8 @@ ________________________________________________________________________________
 ASSISTANT DÉVELOPPEUR Backend |
 De juillet 2019 à janvier 2020 | ETS AL SIDICK, Abidjan
 
-🛠 Conception et mise en œuvre d'une application de gestion de la relation client (CRM), modélisation avec la méthode Mérise et requêtes SQL.
+🛠 Mission: Developed a digital library.
+Method and Result: Utilized PHP, JavaScript, SQL, and ULM, leading to efficient resource management and improved access to documents.
 
 """
 )

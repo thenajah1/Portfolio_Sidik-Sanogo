@@ -84,7 +84,7 @@ with col2:
         #data=PDFbyte,
         #file_name=resume_file.name,
         #mime="application/octet-stream",
-    )
+    #)
    # st.write("📫 :red[**EMAIL** :] ", EMAIL)
 
 # --- SOCIAL LINKS ---

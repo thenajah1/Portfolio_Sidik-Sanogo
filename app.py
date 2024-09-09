@@ -40,8 +40,8 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON, layout="wide")
 # --- LOAD CSS, PDF & PROFIL PIC ---
 with open(css_file) as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
-with open(resume_file, "rb") as pdf_file:
-    PDFbyte = pdf_file.read()
+#with open(resume_file, "rb") as pdf_file:
+    #PDFbyte = pdf_file.read()#
 profile_pic = Image.open(profile_pic)
 
 # ------------- Animations ----------
@@ -79,13 +79,13 @@ with col3:
 with col2:
     st.title(":red[Sidik SANOGO]")
     st.write(DESCRIPTION)
-    st.download_button(
-        label=" 📄 Télécharger mon cv",
-        data=PDFbyte,
-        file_name=resume_file.name,
+    #st.download_button(
+       # label=" 📄 Télécharger mon cv",
+        #data=PDFbyte,
+        #file_name=resume_file.name,
         mime="application/octet-stream",
     )
-    st.write("📫 :red[**EMAIL** :] ", EMAIL)
+   # st.write("📫 :red[**EMAIL** :] ", EMAIL)
 
 # --- SOCIAL LINKS ---
 st.write('📲:red[Connect With Me :]👇\n')

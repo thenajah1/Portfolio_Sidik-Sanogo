@@ -102,7 +102,7 @@ with col21:
     st.write(
     """
 DATA SCIENTIST |
-Depuis mars 2024 | IDAOS, Paris
+De mars à aout 2024 | IDAOS, Paris
 
 🐍 Mission 1 : analyse de données et conception d'applications IA via embeddings avec interface Streamlit pour optimiser la modération.
  Méthode et résultat : utilisation de Python et de l'API d'OpenAI pour un accès rapide aux données de réponses aux questions des utilisateurs, avec un gain de temps de plus de 85 %.

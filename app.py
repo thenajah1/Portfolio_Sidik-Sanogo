@@ -25,6 +25,8 @@ Expertise: Data Analysis | Big Data | Python | Scikit-learn | Keras | TensorFlow
 
 Expérience internationale : Maîtrise de l’anglais et du français parlés et écrits.
 """
+
+
 #EMAIL = "sidiksanogo766@gmail.com"#
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/aboubacar-sidik-sanogo1/",

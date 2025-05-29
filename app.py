@@ -175,7 +175,7 @@ col11, col12 = st.columns(2, gap="small")
 with col11:
     st.write(
     """
-- 🧠 **Compétences Non Techniques**  
+-  **Compétences Non Techniques**  
 💬 Communication efficace  
 🧠 Esprit critique  
 🔎 Veille stratégique  
@@ -185,7 +185,7 @@ with col11:
 
 - 🛠 **Compétences Techniques**  
 Frameworks / Cloud / Visualisation :  
-Docker, Spark, AWS (S3), Git, Snowflake  
+Docker, Spark, AWS, Git, Snowflake  
 Power BI, Tableau, Access  
 Symfony, React, Streamlit, SQL Server  
 Scikit-learn, Keras, TensorFlow  
@@ -217,7 +217,13 @@ st.write("---")
 col31, col32 = st.columns(2, gap="small")
 with col31:
     st.write("""
-         🎓 MASTER INTELLIGENCE ARTIFICIELLE & MANAGEMENT
+🖥 MBA BIG DATA & AI
+ D'octobre 2024 à septembre 2025 MBA ESG Paris, France
+
+🤖 AI agents, ETL-ELT, Data Quality, Data Governance
+    ______________________________________________________________________________________________________________________________________________________________________________________________________
+
+🎓 MASTER INTELLIGENCE ARTIFICIELLE & MANAGEMENT
 Décembre 2021 - Juin 2023 | IA SCHOOL, Paris
 
 📊 Probabilités & Statistiques / Machine & Deep Learning: Approfondissement des connaissances théoriques et pratiques essentielles à l'intelligence artificielle, couvrant les techniques avancées de modélisation, d'analyse et de prédiction.

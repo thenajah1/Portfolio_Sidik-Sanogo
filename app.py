@@ -218,7 +218,7 @@ col31, col32 = st.columns(2, gap="small")
 with col31:
     st.write("""
 🖥 MBA BIG DATA & AI --
- D'octobre 2024 - septembre 2025 | MBA ESG Paris, France
+ Octobre 2024 - septembre 2025 | MBA ESG Paris, France
 
 🤖 AI agents, ETL-ELT, Data Quality, Data Governance
 _________________________________________________________________________________________________________________________________________________________________________________________________

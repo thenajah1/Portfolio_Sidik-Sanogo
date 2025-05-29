@@ -107,9 +107,9 @@ CHEF DE PROJET MARKETING DATA IA |
 Depuis octobre 2024 | Globecast France, Issy-les-Moulineaux
 
 🚀 Mission 1 : Développement d’une data pipeline ETL (AWS S3 + Jupyter) et d’une web app (Streamlit + API OpenAI) pour automatiser la gestion des plans de services.
-Méthode et résultat : automatisation à 90 %, validation automatique, réduction des erreurs de configuration et allocation optimisée des ressources.
+Résultat : automatisation à 90 %, validation automatique, réduction des erreurs de configuration et allocation optimisée des ressources.
 
-💡 Mission 2 : Organisation de sessions de formation sur la conception d’agents IA marketing.
+💡 Mission 2 : Organisation de sessions de formation sur la conception d’agents IA marketing.<br>
 Résultats : montée en compétence des équipes non techniques et premières implémentations concrètes d’agents IA dans les workflows.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________

@@ -217,27 +217,27 @@ st.write("---")
 col31, col32 = st.columns(2, gap="small")
 with col31:
     st.write("""
-🖥 MBA BIG DATA & AI
+🖥 MBA BIG DATA & AI --
  D'octobre 2024 - septembre 2025 | MBA ESG Paris, France
 
 🤖 AI agents, ETL-ELT, Data Quality, Data Governance
 _________________________________________________________________________________________________________________________________________________________________________________________________
 
-🎓 MASTER INTELLIGENCE ARTIFICIELLE & MANAGEMENT
+🎓 MASTER INTELLIGENCE ARTIFICIELLE & MANAGEMENT --
 Décembre 2021 - Juin 2023 | IA SCHOOL, Paris
 
 📊 Probabilités & Statistiques / Machine & Deep Learning: Approfondissement des connaissances théoriques et pratiques essentielles à l'intelligence artificielle, couvrant les techniques avancées de modélisation, d'analyse et de prédiction.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
-👨‍🎓 LICENCE PROFESSIONNELLE EN INFORMATIQUE
+👨‍🎓 LICENCE PROFESSIONNELLE EN INFORMATIQUE --
 Novembre 2018 - Juillet 2021 | HETEC, Abidjan
 
 🛠 Management de projet informatique, Datawarehouse: Acquisition de compétences clés en gestion de projets technologiques et en conception de solutions de stockage de données pour soutenir la prise de décision.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
-🖥 BTS INFORMATIQUE DÉVELOPPEUR D'APPLICATION
+🖥 BTS INFORMATIQUE DÉVELOPPEUR D'APPLICATION --
 Septembre 2018 - Juillet 2020 | HETEC, Abidjan
 
 🌐 Webmaster, Web Design & Infographie: Formation spécialisée dans le développement web, la conception graphique et l'infographie, préparant à la création de sites web visuellement attrayants et fonctionnels.    

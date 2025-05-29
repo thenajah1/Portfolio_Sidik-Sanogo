@@ -103,47 +103,54 @@ col21, col22 = st.columns(2, gap="small")
 with col21:
     st.write(
     """
+CHEF DE PROJET MARKETING DATA IA |
+Depuis octobre 2024 | Globecast France, Issy-les-Moulineaux
+
+🚀 Mission 1 : Développement d’une data pipeline ETL (AWS S3 + Jupyter) et d’une web app (Streamlit + API OpenAI) pour automatiser la gestion des plans de services.
+Méthode et résultat : automatisation à 90 %, validation automatique, réduction des erreurs de configuration et allocation optimisée des ressources.
+
+💡 Mission 2 : Organisation de sessions de formation sur la conception d’agents IA marketing.
+Résultats : montée en compétence des équipes non techniques et premières implémentations concrètes d’agents IA dans les workflows.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
 DATA SCIENTIST |
-De mars à aout 2024 | IDAOS, Paris
+De mars à août 2024 | IDAOS, Paris
 
-🐍 Mission 1 : analyse de données et conception d'applications IA via embeddings avec interface Streamlit pour optimiser la modération.
- Méthode et résultat : utilisation de Python et de l'API d'OpenAI pour un accès rapide aux données de réponses aux questions des utilisateurs, avec un gain de temps de plus de 85 %.
-
-💡Mission 2:  mise en place de scripts pour détecter la mauvaise e-réputation et automatisation de la recherche AO.
- Méthode et résultat : web scraping et NLP pour filtrer les articles et automatisation des recherches, réduisant le temps de détection des articles négatifs et des recherches AO de 50%
-
-📰 Mission 3: Animation de sessions de formation sur GenAI.
-Méthode et résultat : Développement de modules de formation interactifs sur l’utilisation de GenAI, permettant aux équipes de maîtriser rapidement les outils d’IA générative, augmentant ainsi l’efficacité et l’innovation des projets.
+🤖 Mission : Création d'une solution de modération augmentée basée sur l’approche RAG avec LLM et Streamlit.
+Résultats : vectorisation de documents internes et réponses générées en temps réel, réduisant le temps de réponse de +85 %.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 DIGITAL DATA ANALYST |
 D'août 2023 à février 2024 | TOOMOON, Paris
 
-🔍 Mission: analyse exploratoire des données web immobilier, veille stratégique et utilisation d'outils de visualisation.
- Méthode et résultat : analyse avec régression linéaire et séries temporelles, révélant des tendances clés pour affiner les décisions sur les plaintes des locataires.
+🔍 Mission : Analyse des données web immobilières, veille stratégique et visualisation interactive.
+Résultats : détection de tendances clés pour améliorer la gestion des plaintes locataires et l’aide à la décision.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
+
 HEALTH DATA ANALYST |
 De mars 2022 à mai 2023 | COPADES, Freelance
 
-📚 Mission:  analyse des performances des agents de santé et création de rapports pour le suivi des activités.
- Méthode et résultat : analyse des indicateurs clés et création de tableaux de bord interactifs avec Power BI, permettant un suivi efficace de la productivité des agents.
-
-______________________________________________________________________________________________________________________________________________________________________________________________________
-ASSISTANT DÉVELOPPEUR Back-End |
-De aout 2021 à décembre 2021 | ICMGC, Abidjan
-
-📚 Mission: développement d'une bibliothèque numérique.
- Méthode et résultat : utilisation de PHP, JavaScript, SQL et ULM, ce qui a permis une gestion efficace des ressources et une amélioration de l'accès aux documents.
+📚 Mission : Analyse des performances des agents de santé et création de dashboards via Power BI.
+Résultats : suivi efficace des indicateurs clés.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
-ASSISTANT DÉVELOPPEUR Backend |
-De juillet 2020 à décembre 2020 |ETS AL SIDICK, Abidjan
+ASSISTANT DÉVELOPPEUR BACK-END |
+De août 2021 à décembre 2021 | ICMGC, Abidjan
 
-🛠 Mission: Conception et mise en œuvre d’une application de gestion des factures.
-Méthode et résultat : Utilisation de la méthodologie MERISE pour l’analyse, garantissant une conception d’application structurée et efficace.
+📘 Mission : Développement d’une bibliothèque numérique pour centraliser et gérer l’accès aux ressources documentaires..
+Résultat : mise en œuvre de PHP, JavaScript, SQL et UML, permettant une gestion optimisée des ressources et une amélioration significative de l’accès aux livres.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+ASSISTANT DÉVELOPPEUR BACK-END |
+De juillet 2020 à décembre 2020 | ETS AL SIDICK, Abidjan
+
+🛠 Mission : Développement d’une application de gestion de factures avec symfony et react.
+Résultat : application structurée selon la méthode MERISE ; automatisation et fiabilité accrues du processus.
 
 """
 )
@@ -162,34 +169,29 @@ with col22:
 
 # --- SKILLS ---
 st.write('\n')
-st.subheader(":green[🛠 COMPETENCES TECHNIQUES]")
+st.subheader(":green[🛠 COMPETENCES]")
 st.write("---")
 col11, col12 = st.columns(2, gap="small")
 with col11:
     st.write(
     """
-- Frameworks et Outils
+- 🧠 **Compétences Non Techniques**  
+💬 Communication efficace  
+🧠 Esprit critique  
+🔎 Veille stratégique  
+🧩 Résolution de problèmes  
+⚖️ Sens de l’éthique  
+🤝 Collaboration en équipe  
 
-🌐 Web & UI: Symfony, React, Streamlit, Radarly, Phantom Buster
+- 🛠 **Compétences Techniques**  
+Frameworks / Cloud / Visualisation :  
+Docker, Spark, AWS (S3), Git, Snowflake  
+Power BI, Tableau, Access  
+Symfony, React, Streamlit, SQL Server  
+Scikit-learn, Keras, TensorFlow  
 
-🐳 Conteneurisation et Big Data: Docker, Spark, Hadoop
-
-🗃 Bases de Données & BI: Oracle, Access, Odoo CRM, Excel, Power BI, Tableau, MongoDB
-
-- Langages de Programmation
-
-🐍 Python: Utilisation de bibliothèques de pointe pour le Machine Learning et le Deep Learning, telles que Scikit-learn, TensorFlow, PyTorch, et Keras, ainsi que Pandas pour la manipulation de données et Matplotlib/Seaborn pour la visualisation.
-
-📊 R: Application de dplyr et ggplot2 pour l'analyse et la visualisation des données, ainsi que Shiny pour le développement d'applications web interactives.
-
-🌐 PHP: Mise en œuvre de Laravel (un framework web moderne pour PHP) et utilisation de Composer pour la gestion des dépendances.
-
-
-📈 SAS: Maîtrise de PROC SQL pour l'interrogation de bases de données et de SAS Macro Language pour l'automatisation des analyses répétitives.
-
-💾 SQL / NoSQL: Connaissance approfondie de MySQL/PostgreSQL pour SQL et MongoDB pour NoSQL, avec un focus sur l'optimisation des requêtes et la modélisation de données.
-
-🔐 PL/SQL: Développement de procédures stockées, fonctions, et déclencheurs pour maximiser les performances et la sécurité dans les environnements Oracle Database.
+Langages de Programmation :  
+🐍 Python | 📊 R | 💾 SQL / NoSQL | 🌐 PHP | 📈 SAS  
 
 """
 )
@@ -206,6 +208,7 @@ with col12:
         width= 600,
         key=None,
     )
+
 
 
 st.write('\n')

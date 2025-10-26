@@ -104,7 +104,7 @@ with col21:
     st.write(
     """
 CHEF DE PROJET MARKETING DATA IA |
-Depuis octobre 2024 | Globecast France, Issy-les-Moulineaux
+D'octobre 2024 à Septembre 2025 | Globecast France, Issy-les-Moulineaux
 
 🚀 Mission 1 : Développement d’une data pipeline ETL (AWS S3 + Jupyter) et d’une web app (Streamlit + API OpenAI) pour automatiser la gestion des plans de services.
 Résultat : automatisation à 90 %, validation automatique, réduction des erreurs de configuration et allocation optimisée des ressources.
@@ -256,12 +256,14 @@ with col32:
         key=None,
     )
 
-# --- Projects  ---
+# --- Quelques Projects  ---
 st.write('\n')
 st.subheader(":green[📚PROJECTS]")
 st.write("---")
 col41, col42 = st.columns(2, gap="small")
 with col41:
+    st.markdown("###### [🤖 KnoBot:  Cette application permet aux agents et aux citoyens d’une collectivité de poser des questions via une interface chat et d’obtenir immédiatement des réponses fiables, sourcées, issues d’une base documentaire et du web si besoin..](https://https://github.com/thenajah1/KnoBot-)")
+    
     st.markdown("###### [🏀 IA : Prédiction du salaire des joueurs de la NBA Utilisation de modèles de Machine Learning pour analyser et prédire les salaires des joueurs de la NBA en fonction de leurs performances et statistiques, offrant des insights pour les négociations de contrats et les stratégies d'équipe.](https://github.com/thenajah1/NBA-PLAYER-SALARY-PREDICTION)")
     
     st.markdown("###### [🎥 IA : Étude exploratoire des données de sites de films piratés Analyse approfondie des tendances de consommation sur les sites de films piratés, permettant de comprendre les préférences des utilisateurs et d'orienter les stratégies de lutte contre le piratage.](https://github.com/thenajah1/ETUDE-EXPLORATOIRE-DES-DONNEES-DES-SITES-DE-PIRATAGE-DE-FILM)")

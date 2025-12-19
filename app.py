@@ -196,24 +196,33 @@ col11, col12 = st.columns(2, gap="small")
 with col11:
     st.write(
     """
--  **Compétences Non Techniques**  
-💬 Communication efficace  
-🧠 Esprit critique  
-🔎 Veille stratégique  
-🧩 Résolution de problèmes  
-⚖️ Sens de l’éthique  
-🤝 Collaboration en équipe  
+🛠 COMPÉTENCES TECHNIQUES
 
-- 🛠 **Compétences Techniques**  
-Frameworks / Cloud / Visualisation :  
-Docker, Spark, AWS, Git, Snowflake  
-Power BI, Tableau, Access  
-Symfony, React, Streamlit, SQL Server  
-Scikit-learn, Keras, TensorFlow  
+Frameworks, Cloud & Visualisation
+- Data & Cloud : Docker, Spark, SQL Server, AWS, Git, Snowflake
+- Data Visualisation : Power BI, Tableau, Streamlit
+- Développement Web : Symfony, React, PHP, JavaScript
 
-Langages de Programmation :  
-🐍 Python | 📊 R | 💾 SQL / NoSQL | 🌐 PHP | 📈 SAS  
+🤖 IA, Machine & Deep Learning
+- Frameworks ML/DL : Scikit-learn, Keras, TensorFlow
+- Computer Vision : YOLO, OpenCV
+- Langage naturel & Agents IA : LangChain, GraphChain, AutoGPT,
+  LlamaIndex, Hugging Face Transformers
+- Outils d’orchestration IA : Chainlit, PromptFlow, Haystack
 
+💻 Langages de programmation
+- Python, R, SQL, NoSQL, C#, Java, Scala, Bash
+
+
+🧠 COMPÉTENCES NON TECHNIQUES
+
+- Animation de communautés Data & IA
+- Définition et structuration d’offres Data & IA
+- Esprit critique et capacité d’analyse
+- Veille technologique et stratégique en IA
+- Collaboration en équipe pluridisciplinaire
+- Structuration de cadres de gouvernance Data & IA
+- Éthique et IA responsable
 """
 )
 

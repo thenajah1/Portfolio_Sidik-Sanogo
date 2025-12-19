@@ -162,17 +162,17 @@ ICMGC – Abidjan
 
 ____________________________________________________________________________________
 
-ASSISTANT BACK-END DEVELOPER
+ASSISTANT DÉVELOPPEUR BACK-END
 AL SIDICK SARL
-July 2020 – December 2020
+De juillet 2020 à décembre 2020
 Abidjan, Côte d’Ivoire
 
-🛠 Key initiative:
-- Designed and implemented an invoice management application.
+🛠 Mission réalisée :
+- Conception et développement d’une application de gestion de factures.
 
-📌 Business impact:
-- Structured system architecture using the MERISE methodology, improving data consistency and application reliability.
-
+📌 Résultats :
+- Architecture du système structurée selon la méthode MERISE.
+- Amélioration de la cohérence des données et de la fiabilité de l’application.
 """
 )
 with col22:

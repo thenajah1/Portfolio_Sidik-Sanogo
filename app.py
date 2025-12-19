@@ -103,54 +103,75 @@ col21, col22 = st.columns(2, gap="small")
 with col21:
     st.write(
     """
-CHEF DE PROJET MARKETING DATA IA |
-D'octobre 2024 à Septembre 2025 | Globecast France, Issy-les-Moulineaux
+CHEF DE PROJET MARKETING DATA IA
+D’octobre 2024 à septembre 2025
+GLOBECAST FRANCE (Orange Business) – Issy-les-Moulineaux
 
-🚀 Mission 1 : Développement d’une data pipeline ETL (AWS S3 + Jupyter) et d’une web app (Streamlit + API OpenAI) pour automatiser la gestion des plans de services.
-Résultat : automatisation à 90 %, validation automatique, réduction des erreurs de configuration et allocation optimisée des ressources.
+🚀 Missions réalisées :
+- Définition d’un cadre de gouvernance des données et des flux IA (qualité, traçabilité, fiabilité, documentation) en amont des POC.
+- Conception et déploiement d’un pipeline ETL automatisé (AWS S3, Jupyter Notebook, Streamlit, API LLM) pour l’extraction, le traitement et la gestion des plans de services.
+- Automatisation des processus de validation et de configuration des données métiers.
+- Formation et sensibilisation des équipes non techniques aux usages de l’IA (agents IA, automatisation).
 
-💡 Mission 2 : Organisation de sessions de formation sur la conception d’agents IA marketing.
-Résultats : montée en compétence des équipes non techniques et premières implémentations concrètes d’agents IA dans les workflows.
+📊 Résultats :
+- –90 % de saisie manuelle.
+- Validation automatique et amélioration significative de la qualité des données.
+- Accélération du delivery et réduction des erreurs de configuration.
+- Montée en compétence des équipes sur les usages de l’IA.
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________
 
-DATA SCIENTIST |
-De mars à août 2024 | IDAOS, Paris
+DATA SCIENTIST
+D’août 2023 à août 2024
+IDAOS – Paris
 
-🤖 Mission : Création d'une solution de modération augmentée basée sur l’approche RAG avec LLM et Streamlit.
-Résultats : vectorisation de documents internes et réponses générées en temps réel, réduisant le temps de réponse de +85 %.
+🤖 Missions réalisées :
+- Conception d’une solution de modération augmentée du service client basée sur une architecture RAG (LLM + base documentaire vectorisée).
+- Analyse de données web immobilières, structuration des flux de données et production de visualisations décisionnelles.
+- Structuration, documentation et sécurisation des données et connaissances exploitées par les modèles IA.
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+📈 Résultats :
+- Réduction de plus de 85 % du temps de réponse client grâce à des réponses contextuelles contrôlées.
+- Identification de leviers opérationnels pour améliorer la gestion des plaintes locataires et le pilotage des décisions commerciales.
 
-DIGITAL DATA ANALYST |
-D'août 2023 à février 2024 | TOOMOON, Paris
+____________________________________________________________________________________
 
-🔍 Mission : Analyse des données web immobilières, veille stratégique et visualisation interactive.
-Résultats : détection de tendances clés pour améliorer la gestion des plaintes locataires et l’aide à la décision.
+HEALTH DATA ANALYST
+De mars 2022 à mai 2023
+COPADES – Paris
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+📚 Missions réalisées :
+- Analyse des performances des agents de santé à partir d’indicateurs clés.
+- Conception de tableaux de bord interactifs avec Power BI et production de rapports de suivi d’activité à destination des décideurs.
 
-HEALTH DATA ANALYST |
-De mars 2022 à mai 2023 | COPADES, Freelance
+✅ Résultats :
+- Suivi opérationnel et continu de la productivité des agents.
 
-📚 Mission : Analyse des performances des agents de santé et création de dashboards via Power BI.
-Résultats : suivi efficace des indicateurs clés.
+____________________________________________________________________________________
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+ASSISTANT DÉVELOPPEUR BACK-END
+D’août 2021 à décembre 2021
+ICMGC – Abidjan
 
-ASSISTANT DÉVELOPPEUR BACK-END |
-De août 2021 à décembre 2021 | ICMGC, Abidjan
+🧩 Missions réalisées :
+- Développement d’une bibliothèque numérique pour centraliser et gérer l’accès aux ressources documentaires (PHP, JavaScript, SQL, UML).
 
-📘 Mission : Développement d’une bibliothèque numérique pour centraliser et gérer l’accès aux ressources documentaires..
-Résultat : mise en œuvre de PHP, JavaScript, SQL et UML, permettant une gestion optimisée des ressources et une amélioration significative de l’accès aux livres.
+🎯 Résultats :
+- Accès aux ressources deux fois plus rapide.
+- Optimisation de la gestion et de la disponibilité documentaire.
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________
 
-ASSISTANT DÉVELOPPEUR BACK-END |
-De juillet 2020 à décembre 2020 | ETS AL SIDICK, Abidjan
+ASSISTANT BACK-END DEVELOPER
+AL SIDICK SARL
+July 2020 – December 2020
+Abidjan, Côte d’Ivoire
 
-🛠 Mission : Développement d’une application de gestion de factures avec symfony et react.
-Résultat : application structurée selon la méthode MERISE ; automatisation et fiabilité accrues du processus.
+🛠 Key initiative:
+- Designed and implemented an invoice management application.
+
+📌 Business impact:
+- Structured system architecture using the MERISE methodology, improving data consistency and application reliability.
 
 """
 )
